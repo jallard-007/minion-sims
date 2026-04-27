@@ -1,2 +1,6 @@
 dist/
 node_modules/
+/ms-api
+/ms-files
+*.log
+/pb_data
